@@ -50,7 +50,7 @@ QA 실무 경험을 바탕으로 기능 구현뿐 아니라 흐름과 예외 상
 ---
 
 ### 📫 Contact
-- Email: your_email@example.com
+- Email: k4368284@naver.com
 
 <a href="https://github.com/devxb/gitanimals">
 <img
