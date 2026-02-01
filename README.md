@@ -6,11 +6,14 @@ QA 실무 경험을 바탕으로 기능 구현뿐 아니라 흐름과 예외 상
 ---
 
 ### 🔧 Tech Stack
-- **Backend**: Java, JSP
-- **Frontend**: HTML, CSS, JavaScript
-- **Database**: MySQL
-- **Tools**: Git, GitHub, Jira
-- **OS**: Linux
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=flat&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
@@ -21,18 +24,18 @@ QA 실무 경험을 바탕으로 기능 구현뿐 아니라 흐름과 예외 상
 - 회원가입 / 로그인 / 게시판 / 장바구니 기능 구현
 - DB 설계 및 CRUD 로직 직접 구현
 - 세션 기반 인증 처리 및 입력값 검증 로직 구현  
-👉 (https://github.com/YEN1K/JSP-MySQL-ShoppingMall)
+👉 [바로가기](https://github.com/YEN1K/JSP-MySQL-ShoppingMall)
 
 #### ✅ Todo List Web App
 - JavaScript 기반 DOM 조작
 - 상태 관리 및 이벤트 처리 구현
 - 사용자 입력에 따른 화면 반영 로직 구현  
-👉 (https://github.com/YEN1K/Todo-List-html-css-js)
+👉 [바로가기](https://github.com/YEN1K/Todo-List-html-css-js)
 
 #### 📷 Android 이미지 처리 앱
 - Android 환경에서 카메라 촬영 기능 구현
 - 이미지 저장 및 처리 흐름 구현  
-👉 (https://github.com/YEN1K/Android-Camera-Image-Processing)
+👉 [바로가기](https://github.com/YEN1K/Android-Camera-Image-Processing)
 
 ---
 
@@ -51,6 +54,7 @@ QA 실무 경험을 바탕으로 기능 구현뿐 아니라 흐름과 예외 상
 
 ### 📫 Contact
 - Email: k4368284@naver.com
+- GitHub: https://github.com/YEN1K
 
 <a href="https://github.com/devxb/gitanimals">
 <img
