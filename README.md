@@ -21,18 +21,18 @@ QA 실무 경험을 바탕으로 기능 구현뿐 아니라 흐름과 예외 상
 - 회원가입 / 로그인 / 게시판 / 장바구니 기능 구현
 - DB 설계 및 CRUD 로직 직접 구현
 - 세션 기반 인증 처리 및 입력값 검증 로직 구현  
-👉 [Repository 바로가기](여기에_링크)
+👉 [Repository 바로가기](https://github.com/YEN1K/JSP-MySQL-ShoppingMall)
 
 #### ✅ Todo List Web App
 - JavaScript 기반 DOM 조작
 - 상태 관리 및 이벤트 처리 구현
 - 사용자 입력에 따른 화면 반영 로직 구현  
-👉 [Repository 바로가기](여기에_링크)
+👉 [Repository 바로가기](https://github.com/YEN1K/Todo-List-html-css-js)
 
 #### 📷 Android 이미지 처리 앱
 - Android 환경에서 카메라 촬영 기능 구현
 - 이미지 저장 및 처리 흐름 구현  
-👉 [Repository 바로가기](여기에_링크)
+👉 [Repository 바로가기](https://github.com/YEN1K/Android-Camera-Image-Processing)
 
 ---
 
