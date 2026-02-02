@@ -24,7 +24,7 @@ QA 실무 경험을 바탕으로 기능 구현뿐 아니라 흐름과 예외 상
 - 필터 기능(전체 / 완료 / 미완료) 구현으로 UX 개선
 
 👉 Live Demo / 코드 확인 가능
-👉 [바로가기](https://github.com/YEN1K/Todo-List-html-css-js)
+[바로가기](https://github.com/YEN1K/Todo-List-html-css-js)
 
 #### 🛒 쇼핑몰 웹 애플리케이션 (UI 결과물 제한적 / 서버 로직 중심)
 - JSP + MySQL 기반의 서버 사이드 웹 애플리케이션
@@ -34,7 +34,7 @@ QA 실무 경험을 바탕으로 기능 구현뿐 아니라 흐름과 예외 상
 - 프론트엔드 UI보다는 서버 로직과 데이터 흐름 이해에 초점을 둔 프로젝트
 
 👉 코드 및 구조 위주로 확인 가능
-👉 [바로가기](https://github.com/YEN1K/JSP-MySQL-ShoppingMall)
+[바로가기](https://github.com/YEN1K/JSP-MySQL-ShoppingMall)
 
 #### 📷 Android 이미지 처리 앱 (학습용 프로젝트 / 배포 결과물 없음)
 - 촬영 이미지 저장 및 처리 흐름 구현
@@ -42,7 +42,7 @@ QA 실무 경험을 바탕으로 기능 구현뿐 아니라 흐름과 예외 상
 - 앱 배포보다는 안드로이드 카메라 동작 원리 이해를 목표로 한 실습 프로젝트
 
 👉 소스 코드 중심 프로젝트
-👉 [바로가기](https://github.com/YEN1K/Android-Camera-Image-Processing)
+[바로가기](https://github.com/YEN1K/Android-Camera-Image-Processing)
 
 ---
 
