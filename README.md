@@ -22,7 +22,6 @@ QA 실무 경험을 바탕으로 기능 구현뿐 아니라 흐름과 예외 상
 - LocalStorage를 활용한 상태 관리 및 데이터 영속성 처리
 - 이벤트 처리 로직 분리 및 사용자 입력에 따른 실시간 UI 반영
 - 필터 기능(전체 / 완료 / 미완료) 구현으로 UX 개선
-- ✅ Todo List Web App (결과 확인 가능 / Live Demo 제공)
 👉 Live Demo / 코드 확인 가능
 👉 [바로가기](https://github.com/YEN1K/Todo-List-html-css-js)
 
